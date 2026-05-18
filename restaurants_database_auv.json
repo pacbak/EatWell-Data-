@@ -1,6 +1,19 @@
 {
-    "db_version": "26.0517",
+    "db_version": "26.0517.2336",
     "zone": [
+        {
+            "site": "ZZZZZ",
+            "ig": "9999999",
+            "cde post.": "12345",
+            "restaurants": [
+                {
+                    "adresse": "La Vieille Auberge\nRue de l'Eglise\n03250 LE MAYET DE MONTAGNE",
+                    "telephone": "Tel : 04.70.59.34.01",
+                    "ouverture": "lun. mar. jeu. ven. sam. dim.",
+                    "trajet": "666min"
+                }
+            ]
+        },
         {
             "site": "Allegre:Chateauneuf",
             "ig": "4300301",
