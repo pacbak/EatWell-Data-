@@ -1,16 +1,16 @@
 {
-    "db_version": "26.0518.1200",
+    "db_version": "26.0519.2200",
     "zone": [
         {
-            "site": "ZzZzZzZzZ",
-            "ig": "9999999",
-            "cde post.": "00007",
+            "site": "###",
+            "ig": "???????",
+            "cde post.": "",
             "restaurants": [
                 {
-                    "adresse": "Ici & Là\nRue de l'impasse\n12345 LABAS",
-                    "telephone": "Tel : 04.05.06.07.08",
-                    "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
-                    "trajet": "666min"
+                    "adresse": "Oh ! Mais tu as trouvé le message caché !! ;-)\nC’est le moment de vérité...\n le bouton 'Appeler' te tend les bras.\n(Promis, le tel ne va pas exploser)",
+                    "telephone": "Tel : *#0*#",
+                    "ouverture": "dans l'Antre de l'Enfer ! Mouahahah...",
+                    "trajet": "2 années-lumière"
                 }
             ]
         },
