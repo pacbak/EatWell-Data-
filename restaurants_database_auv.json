@@ -1,7 +1,20 @@
 {
-    "db_version": "26.0517.2345",
+    "db_version": "26.0518.1200",
     "zone": [
         {
+            "site": "ZzZzZzZzZ",
+            "ig": "9999999",
+            "cde post.": "00007",
+            "restaurants": [
+                {
+                    "adresse": "Ici & Là\nRue de l'impasse\n12345 LABAS",
+                    "telephone": "Tel : 04.05.06.07.08",
+                    "ouverture": "lun. mar. mer. jeu. ven. sam. dim.",
+                    "trajet": "666min"
+                }
+            ]
+        },
+                {
             "site": "Allegre:Chateauneuf",
             "ig": "4300301",
             "cde post.": "43270",
